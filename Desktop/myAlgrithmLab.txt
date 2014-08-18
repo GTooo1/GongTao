@@ -1,0 +1,11 @@
+#include<ctime>
+#include<cstdlib>
+#include<cstring>
+#include<cstdio>
+#include<iostream>
+#define INPUT freopen("D:\\iotest\\in.txt", "r", stdin)
+#define OUTPUT freopen("D:\\iotest\\out.txt", "w", stdin)
+#define TIME printf("%.3lf s", (double)clock() / CLOCKS_PER_SEC)
+#define TEST printf("this is an output test!!!")
+#define ACT ios::sync_with_stdio(false)
+using namespace std;
